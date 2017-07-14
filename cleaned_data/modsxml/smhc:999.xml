@@ -1,0 +1,546 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="http://digital.lib.utk.edu/collections/sites/all/themes/sis/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Page not found | Libraries</title>  
+  <style type="text/css" media="all">
+@import url("http://digital.lib.utk.edu/collections/modules/system/system.base.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/modules/system/system.menus.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/modules/system/system.messages.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/modules/system/system.theme.css?oszg84");
+</style>
+<style type="text/css" media="all">
+@import url("http://digital.lib.utk.edu/collections/modules/comment/comment.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/date/date_api/date.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/modules/field/theme/field.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/islandora/css/islandora.base.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/islandora/css/islandora.theme.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/islandora_solution_pack_audio/css/islandora_audio.theme.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/islandora_solution_pack_collection/css/islandora_basic_collection.base.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/islandora_solution_pack_collection/css/islandora_basic_collection.theme.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/islandora_solution_pack_image/css/islandora_basic_image.theme.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/islandora_batch/css/views_table_contextual_links_fix.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/islandora_bookmark/css/islandora_bookmark.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/islandora_fits/css/islandora_fits.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/islandora_solution_pack_large_image/css/islandora_large_image.theme.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/islandora_solution_pack_newspaper/css/islandora_newspaper.base.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/islandora_solution_pack_newspaper/css/islandora_newspaper.theme.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/islandora_solution_pack_pdf/css/islandora_pdf.theme.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/islandora_premis/css/islandora_premis.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/islandora_solr_search/css/islandora_solr.base.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/islandora_solr_metadata/css/islandora_solr_metadata.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/islandora_solution_pack_video/css/islandora_video.theme.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/modules/node/node.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/modules/search/search.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/modules/user/user.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/views/css/views.css?oszg84");
+</style>
+<style type="text/css" media="all">
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/colorbox/styles/default/colorbox_style.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/ctools/css/ctools.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/modules/islandora_solution_pack_compound/css/islandora_compound_object.block.css?oszg84");
+</style>
+<style type="text/css" media="all">
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/omega/alpha/css/alpha-reset.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/omega/alpha/css/alpha-mobile.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/omega/alpha/css/alpha-alpha.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/omega/omega/css/formalize.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/omega/omega/css/omega-text.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/omega/omega/css/omega-branding.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/omega/omega/css/omega-menu.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/omega/omega/css/omega-forms.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/omega/omega/css/omega-visuals.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/sis/css/global.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/sis/css/ut.css?oszg84");
+</style>
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<style type="text/css" media="all">
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/sis/css/sis-alpha-default.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/sis/css/sis-alpha-default-normal.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?oszg84");
+</style>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<style type="text/css" media="all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)">
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/sis/css/sis-alpha-default.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/sis/css/sis-alpha-default-narrow.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/omega/alpha/css/grid/alpha_default/narrow/alpha-default-narrow-12.css?oszg84");
+</style>
+<!--<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<style type="text/css" media="all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)">
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/sis/css/sis-alpha-default.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/sis/css/sis-alpha-default-normal.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?oszg84");
+</style>
+<!--<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<style type="text/css" media="all and (min-width: 1220px)">
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/sis/css/sis-alpha-default.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/sis/css/sis-alpha-default-wide.css?oszg84");
+@import url("http://digital.lib.utk.edu/collections/sites/all/themes/omega/alpha/css/grid/alpha_default/wide/alpha-default-wide-12.css?oszg84");
+</style>
+<!--<![endif]-->
+  <script type="text/javascript" src="http://digital.lib.utk.edu/collections/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://digital.lib.utk.edu/collections/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://digital.lib.utk.edu/collections/misc/drupal.js?oszg84"></script>
+<script type="text/javascript" src="http://digital.lib.utk.edu/collections/sites/all/libraries/colorbox/jquery.colorbox-min.js?oszg84"></script>
+<script type="text/javascript" src="http://digital.lib.utk.edu/collections/sites/all/modules/colorbox/js/colorbox.js?oszg84"></script>
+<script type="text/javascript" src="http://digital.lib.utk.edu/collections/sites/all/modules/colorbox/styles/default/colorbox_style.js?oszg84"></script>
+<script type="text/javascript" src="http://digital.lib.utk.edu/collections/sites/all/modules/piwik/piwik.js?oszg84"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://kiva.lib.utk.edu/piwik/" : "http://kiva.lib.utk.edu/piwik/");_paq.push(["setSiteId", "52"]);_paq.push(["setTrackerUrl", u+"piwik.php"]);_paq.push(["setDocumentTitle", "404/URL = " + encodeURIComponent(document.location.pathname+document.location.search) + "/From = " + encodeURIComponent(document.referrer)]);_paq.push(["setDoNotTrack", 1]);_paq.push(["trackPageView"]);_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src="http://digital.lib.utk.edu/collections/sites/default/files/piwik/piwik.js?oszg84";s.parentNode.insertBefore(g,s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://digital.lib.utk.edu/collections/sites/all/themes/sis/js/mark.js?oszg84"></script>
+<script type="text/javascript" src="http://digital.lib.utk.edu/collections/sites/all/themes/sis/js/displayfixes.js?oszg84"></script>
+<script type="text/javascript" src="http://digital.lib.utk.edu/collections/sites/all/themes/omega/omega/js/jquery.formalize.js?oszg84"></script>
+<script type="text/javascript" src="http://digital.lib.utk.edu/collections/sites/all/themes/omega/omega/js/omega-mediaqueries.js?oszg84"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/collections\/","pathPrefix":"","ajaxPageState":{"theme":"sis","theme_token":"JUqvTE-HfaMNepEznUyoheuS0ZhcR0yCTrlOq4XLpp0","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/piwik\/piwik.js":1,"0":1,"sites\/all\/themes\/sis\/js\/mark.js":1,"sites\/all\/themes\/sis\/js\/displayfixes.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/islandora\/css\/islandora.base.css":1,"sites\/all\/modules\/islandora\/css\/islandora.theme.css":1,"sites\/all\/modules\/islandora_solution_pack_audio\/css\/islandora_audio.theme.css":1,"sites\/all\/modules\/islandora_solution_pack_collection\/css\/islandora_basic_collection.base.css":1,"sites\/all\/modules\/islandora_solution_pack_collection\/css\/islandora_basic_collection.theme.css":1,"sites\/all\/modules\/islandora_solution_pack_image\/css\/islandora_basic_image.theme.css":1,"sites\/all\/modules\/islandora_batch\/css\/views_table_contextual_links_fix.css":1,"sites\/all\/modules\/islandora_bookmark\/css\/islandora_bookmark.css":1,"sites\/all\/modules\/islandora_fits\/css\/islandora_fits.css":1,"sites\/all\/modules\/islandora_solution_pack_large_image\/css\/islandora_large_image.theme.css":1,"sites\/all\/modules\/islandora_solution_pack_newspaper\/css\/islandora_newspaper.base.css":1,"sites\/all\/modules\/islandora_solution_pack_newspaper\/css\/islandora_newspaper.theme.css":1,"sites\/all\/modules\/islandora_solution_pack_pdf\/css\/islandora_pdf.theme.css":1,"sites\/all\/modules\/islandora_premis\/css\/islandora_premis.css":1,"sites\/all\/modules\/islandora_solr_search\/css\/islandora_solr.base.css":1,"sites\/all\/modules\/islandora_solr_metadata\/css\/islandora_solr_metadata.css":1,"sites\/all\/modules\/islandora_solution_pack_video\/css\/islandora_video.theme.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/islandora_solution_pack_compound\/css\/islandora_compound_object.block.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-visuals.css":1,"sites\/all\/themes\/sis\/css\/global.css":1,"sites\/all\/themes\/sis\/css\/ut.css":1,"ie::normal::sites\/all\/themes\/sis\/css\/sis-alpha-default.css":1,"ie::normal::sites\/all\/themes\/sis\/css\/sis-alpha-default-normal.css":1,"ie::normal::sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"narrow::sites\/all\/themes\/sis\/css\/sis-alpha-default.css":1,"narrow::sites\/all\/themes\/sis\/css\/sis-alpha-default-narrow.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"normal::sites\/all\/themes\/sis\/css\/sis-alpha-default.css":1,"normal::sites\/all\/themes\/sis\/css\/sis-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"wide::sites\/all\/themes\/sis\/css\/sis-alpha-default.css":1,"wide::sites\/all\/themes\/sis\/css\/sis-alpha-default-wide.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-12.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"piwik":{"trackMailto":1,"trackColorbox":1},"urlIsAjaxTrusted":{"\/collections\/islandora\/object\/smhc:999\/datastream\/MODS":true},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-islandora page-islandora-object page-islandora-object-smhc999 page-islandora-object-smhc999-datastream page-islandora-object-smhc999-datastream-mods context-islandora">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <div class="region region-page-top" id="region-page-top">
+  <div class="region-inner region-page-top-inner">
+      </div>
+</div>  <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-header-wrapper" class="zone-wrapper zone-header-wrapper clearfix">  
+  <div id="zone-header" class="zone zone-header clearfix container-12">
+    <div class="grid-5 region region-header-first" id="region-header-first">
+  <div class="region-inner region-header-first-inner">
+    <div class="block block-block block-10 block-block-10 odd block-without-title" id="block-block-10">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="logo">
+  <a href="http://utk.edu" title="UTK">
+    <img src="https://www.lib.utk.edu/template/2013/images/interface/web-header-logo.png" alt="UT Logo" title="UT Logo" class="ut-horiz">
+  </a>
+</div>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-7 region region-header-second" id="region-header-second">
+  <div class="region-inner region-header-second-inner">
+    <div class="block block-block block-9 block-block-9 odd block-without-title" id="block-block-9">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul id="toolbox">
+				<li id="n1"><a href="http://registrar.tennessee.edu/academic_calendar/">Calendars</a>
+				  <ul>
+				    <li><a href="http://www.utk.edu/events/">EVENT CALENDAR</a></li>
+				    <li><a href="http://registrar.tennessee.edu/academic_calendar/">ACADEMIC CALENDAR</a></li>
+				    <li><a href="http://registrar.tennessee.edu/academic_calendar/">ACADEMIC TIMETABLE</a></li>
+				    <li><a href="http://registrar.tennessee.edu/academic_calendar/">KEY DATES</a></li>
+			      </ul>
+				</li>
+				<li id="n2"><a href="http://www.utk.edu/maps/">Maps</a>
+				  <ul>
+				    <li><a href="http://www.utk.edu/maps/">Interactive </a></li>
+				 
+			      </ul>
+				</li>
+				<li id="n3"><a href="http://utk.edu/alpha/">A-Z</a> 
+				  <ul>
+				    <li><a href="http://utk.edu/alpha/#A-E">A-E</a></li>
+				    <li><a href="http://utk.edu/alpha/#F-J">F-J</a></li>
+				    <li><a href="http://utk.edu/alpha/#K-O">K-O</a></li>
+				    <li><a href="http://utk.edu/alpha/#P-T">P-T</a></li>
+				    <li><a href="http://utk.edu/alpha/#U-Z">U-Z</a></li>
+			      </ul>
+				</li>
+				<li id="n4"><a href="http://directory.utk.edu/">People Finder</a>
+					<ul>
+						<li><a href="http://directory.utk.edu/">CAMPUS DIRECTORY</a></li>
+                        <li><a href="http://chancellor.utk.edu/">CHANCELLOR</a></li>
+						<li><a href="http://provost.utk.edu/">PROVOST</a></li>
+						<li><a href="http://chancellor.utk.edu/staff/">VICE CHANCELLORS</a></li>
+						<li><a href="http://provost.utk.edu/staff/deans.shtml">ACADEMIC DEANS</a></li>
+					
+
+					</ul>
+				</li>
+				<li id="n5"><a href="https://oit.utk.edu/accounts/email/Pages/">E-mail</a>
+				  <ul>
+				    <li><a href="https://tmail.utk.edu/">TMAIL</a></li>
+				    <li><a href="http://volmail.utk.edu/">VOLMAIL</a></li>
+				    <li><a href="http://listserv.utk.edu/">LISTSERV</a></li>
+				    <li><a href="https://oit.utk.edu/accounts/email/Pages/">ABOUT</a></li>
+			      </ul>
+				</li>
+				<li id="n6"><a href="https://oit.utk.edu/">Logins</a>
+				  <ul>
+				    <li><a href="http://myutk.utk.edu/">MYUTK</a></li>
+				    <li><a href="http://online.utk.edu/">ONLINE@UT</a></li>
+				    <li><a href="http://iris.tennessee.edu/">IRIS</a></li>
+				    <li><a href="https://oit.utk.edu/accounts/unix-volspace/Pages/default.aspx">WEB ACCOUNTS</a></li>
+				    <li><a href="https://oit.utk.edu/accounts/passwords/Pages/default.aspx">PASSWORDS</a></li>
+                                    <li><a href="https://digital.lib.utk.edu/collections/login">ISLANDORA LOGIN</a></li>
+			      </ul>
+				</li>
+				<li id="n7"><a href="http://library.utk.edu/">Libraries</a>
+				  <ul>
+				    <li><a href="http://library.utk.edu/">UNIVERSITY LIBRARIES</a></li>
+				    <li><a href="http://library.utk.edu/agvet/">AGRICULTURE &amp; VET MED</a></li>
+				    <li><a href="http://www.law.utk.edu/library/">LAW</a></li>
+				    <li><a href="http://gsm.utmck.edu/library/">MEDICAL</a></li>
+				    <li><a href="http://library.utk.edu/music/">MUSIC</a></li>
+				    <li><a href="http://library.utk.edu/swn/">SOCIAL WORK</a></li>
+				    <li><a href="http://www.utsi.edu/library/">SPACE INSTITUTE</a></li>
+				    <li><a href="http://library.utk.edu/special/">SPECIAL COLLECTIONS</a></li>
+			      </ul>
+				</li>
+			</ul>
+</ul>    </div>
+  </div>
+</div><div class="block block-block block-11 block-block-11 even block-without-title" id="block-block-11">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="search">
+<form id="utk_seek" name="utk_seek" method="post" accept-charset="iso-8859-1" action="http://www.utk.edu/masthead/query.php" speech="" x-webkit-speech=""><input type="text" name="qt" onfocus="if(this.value == 'Search utk.edu') { this.value = ''; }" value="Search utk.edu" class="searchfield" title="search" speech="" x-webkit-speech=""><input type="hidden" name="qtype" class="searchtext" value="utk" title="search type"><input name="go" type="submit" title="Submit" class="searchbutton" value="Search"></form>
+</div>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div><div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <div class="grid-12 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+          </div>
+</div>  </div>
+</div><div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">  
+  <div id="zone-menu" class="zone zone-menu clearfix container-12">
+    <div class="grid-12 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+        <div class="block block-block block-13 block-block-13 odd block-without-title" id="block-block-13">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+       <ul class="navigationtop">
+    <li class="navigationItem"><a class="librarynavlink" href="http://www.lib.utk.edu/find/">Find</a>
+      <ul class="subNavigation">
+        <li><a class="librarynavlink" href="http://www.lib.utk.edu/catalog/">One Search</a></li>
+        <li><a class="librarynavlink" href="http://www.lib.utk.edu/databases/">Articles and Databases</a></li>
+        <li><a class="librarynavlink" href="http://sfxhosted.exlibrisgroup.com/utk/az/">E-Journal Titles</a></li>
+        <li><a class="librarynavlink" href="http://neko.lib.utk.edu:4525/F/?func=file&file_name=find-b&local_base=u-utk30_c">Course Reserves</a></li>        
+		<li><a class="librarynavlink" href="http://digital.lib.utk.edu">Digital Collections</a></li>
+        <li><a class="librarynavlink" href="http://www.lib.utk.edu/info/faqs/how-do-i-find-a-utk-dissertation/">UT Dissertations</a></li>
+        <li><a class="librarynavlink" href="http://www.lib.utk.edu/find/other">Other Libraries and Catalogs</a></li>
+	    <li><a class="librarynavlink" href="http://libguides.utk.edu/streaming">Streaming Video</a></li>
+      </ul>
+    </li>
+    <li class="navigationItem"><a class="librarynavlink" href="http://www.lib.utk.edu/gethelp/">Get Help</a>
+      <ul class="subNavigation">
+         <li><a class="librarynavlink" href="http://www.lib.utk.edu/askusnow/">AskUsNow</a></li>
+         <li><a class="librarynavlink" href="http://www.lib.utk.edu/askusnow/subject-librarians/">Subject Librarians</a></li>
+         <li><a class="librarynavlink" href="http://libguides.utk.edu/">Research Guides</a></li>
+         <li><a class="librarynavlink" href="http://libguides.utk.edu/style/">Citing Sources</a></li>
+         <li><a class="librarynavlink" href="http://libguides.utk.edu/citeman/">EndNote | Zotero</a></li>
+         <li><a class="librarynavlink" href="http://www.lib.utk.edu/instruct/">Request Instruction</a></li>
+         <li><a class="librarynavlink" href="http://www.lib.utk.edu/instruct/tutorials/">Tutorials</a></li>
+         <li><a class="librarynavlink" href="http://www.lib.utk.edu/info/tech/">Technology Support</a></li>
+      </ul>
+    </li>
+    <li class="navigationItem"><a class="librarynavlink" href="http://www.lib.utk.edu/services/">Services</a>
+      <ul class="subNavigation">
+         <li><a class="librarynavlink" href="http://www.lib.utk.edu/access/borrow-renew/">Borrow or Renew</a></li>
+         <li><a class="librarynavlink" href="http://www.lib.utk.edu/request/">Request Items</a></li>
+         <li><a class="librarynavlink" href="http://www.lib.utk.edu/askusnow/">Research Consultations</a></li>
+         <li><a class="librarynavlink" href="http://www.lib.utk.edu/scholar/">Scholarly Communication</a></li>
+         <li><a class="librarynavlink" href="http://www.lib.utk.edu/access/rooms/">Reserve a Room</a></li>
+         <li><a class="librarynavlink" href="http://www.lib.utk.edu/access/course-reserves">Place Items on Reserve</a></li>
+         <li><a class="librarynavlink" href="http://www.lib.utk.edu/info/disabilities">Disabilities Services</a></li>
+      </ul>
+    </li>
+    <li class="navigationItem"><a class="librarynavlink" href="http://www.lib.utk.edu/collect/">Collections</a>
+      <ul class="subNavigation">
+		 <li><a class="librarynavlink" href="http://www.lib.utk.edu/special/">Special Collections</a></li>
+		 <li><a class="librarynavlink" href="http://digital.lib.utk.edu/">Digital Collections</a></li>
+		 <li><a class="librarynavlink" href="http://www.lib.utk.edu/collections/">Research Collections</a></li>
+         <li><a class="librarynavlink" href="http://www.lib.utk.edu/map/">Map Collection</a></li>
+      </ul>
+    </li>
+    <li class="navigationItem"><a class="librarynavlink" href="http://wp.lib.utk.edu/locations/">Locations</a>
+      <ul class="subNavigation">
+         <li><a class="librarynavlink" href="http://www.lib.utk.edu/">Hodges - Main Library</a></li>
+		 <li><a class="librarynavlink" href="http://www.lib.utk.edu/agvet/">Agriculture and Veterinary Medicine Library</a></li>
+		 <li><a class="librarynavlink" href="http://www.lib.utk.edu/music/">Music Library</a></li>
+		 <li><a class="librarynavlink" href="http://www.lib.utk.edu/swln/">Social Work Library - Nashville</a></li>
+		 <li><a class="librarynavlink" href="http://www.lib.utk.edu/request/storage/">Storage</a></li>
+		 <li><a class="librarynavlink" href="http://commons.utk.edu">The Commons</a></li>
+		 <li><a class="librarynavlink" href="http://www.lib.utk.edu/studio/">The Studio</a></li>
+		 <li><a class="librarynavlink" href="http://onestop.utk.edu">One Stop</a></li>
+      </ul>
+    </li>
+    <li class="navigationItem"><a class="librarynavlink" href="http://www.lib.utk.edu/hours/">Hours</a>
+    </li>
+    
+     <li class="clear"></li>
+  </ul>
+
+<select id="navselect"><option selected="selected" value="">Go to...</option><option value="http://www.lib.utk.edu/find/">Find</option><option value="http://www.lib.utk.edu/catalog/">One Search</option><option value="http://www.lib.utk.edu/databases/">Articles and Databases</option><option value="http://sfxhosted.exlibrisgroup.com/utk/az/">E-Journal Titles</option><option value="http://neko.lib.utk.edu:4525/F/?func=file&amp;file_name=find-b&amp;local_base=u-utk30_c">Course Reserves</option><option value="http://digital.lib.utk.edu">Digital Collections</option><option value="http://utklib.ask.libraryh3lp.com/questions/2330">UT Dissertations</option><option value="http://www.lib.utk.edu/find/other">Other Libraries and Catalogs</option><option value="http://libguides.utk.edu/streaming">Streaming Video</option><option value="http://www.lib.utk.edu/gethelp/">Get Help</option><option value="http://www.lib.utk.edu/askusnow/">AskUsNow</option><option value="http://www.lib.utk.edu/askusnow/subject-librarians/">Subject Librarians</option><option value="http://libguides.utk.edu/">Research Guides</option><option value="http://libguides.utk.edu/style/">Citing Sources</option><option value="http://libguides.utk.edu/citeman/">EndNote | Zotero</option><option value="http://www.lib.utk.edu/instruct/">Request Instruction</option><option value="http://www.lib.utk.edu/instruct/tutorials/">Tutorials</option><option value="http://www.lib.utk.edu/info/tech/">Technology Support</option><option value="http://www.lib.utk.edu/services/">Services</option><option value="http://www.lib.utk.edu/access/borrow-renew/">Borrow or Renew</option><option value="http://www.lib.utk.edu/request/">Request Items</option><option value="http://www.lib.utk.edu/askusnow/">Research Consultations</option><option value="http://www.lib.utk.edu/scholar/">Scholarly Communication</option><option value="http://www.lib.utk.edu/access/rooms/">Reserve a Room</option><option value="http://www.lib.utk.edu/access/course-reserves">Place Items on Reserve</option><option value="http://www.lib.utk.edu/info/disabilities">Disabilities Services</option><option value="http://www.lib.utk.edu/collect/">Collections</option><option value="http://www.lib.utk.edu/special/">Special Collections</option><option value="http://digital.lib.utk.edu/">Digital Collections</option><option value="http://www.lib.utk.edu/collections/">Research Collections</option><option value="http://www.lib.utk.edu/map/">Map Collection</option><option value="http://www.lib.utk.edu/locations/">Locations</option><option value="http://www.lib.utk.edu/">Hodges - Main Library</option><option value="http://www.lib.utk.edu/agvet/">Agriculture and Veterinary Medicine Library</option><option value="http://www.lib.utk.edu/music/">Music Library</option><option value="http://www.lib.utk.edu/swln/">Social Work Library - Nashville</option><option value="http://www.lib.utk.edu/request/storage/">Storage</option><option value="http://commons.utk.edu">The Commons</option><option value="http://www.lib.utk.edu/studio/">The Studio</option><option value="http://onestop.utk.edu">One Stop</option><option value="http://www.lib.utk.edu/hours/">Hours</option><option value="http://utklib.ask.libraryh3lp.com/">FAQ</option><option value="#">
+Chat Now!</option></select>
+
+    </div>
+  </div>
+</div>  </div>
+</div>
+  </div>
+</div></header>    
+      <section id="section-content" class="section section-content">
+    
+  <div id="zone-splashpage" class="zone zone-splashpage clearfix container-12">
+    <div class="grid-12 region region-splashbanner" id="region-splashbanner">
+  <div class="region-inner region-splashbanner-inner">
+    <div class="block block-block block-102 block-block-102 odd block-without-title" id="block-block-102">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id="banner-container"><a href="/collections/hikingclub"><img title="Smoky Mountains Hiking Club Collection Banner Image" alt="Smoky Mountains Hiking Club Collection Banner Image" src="/collections/sites/all/themes/banners/GSM-Hiking-Club.png" border="0" id="splash-logo"></a></div>
+<script src="/collections/sites/all/libraries/utk/mark.js" type="text/javascript"></script>     </div>
+  </div>
+</div>  </div>
+</div><div class="grid-3 region region-splashintro" id="region-splashintro">
+  <div class="region-inner region-splashintro-inner">
+    <div class="block block-block block-105 block-block-105 odd block-without-title" id="block-block-105">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <a id="splashintrotext" href="/collections/hikingclub">&mdash; Introduction &mdash;</a>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-3 region region-splashbrowse" id="region-splashbrowse">
+  <div class="region-inner region-splashbrowse-inner">
+    <div class="block block-block block-104 block-block-104 odd block-without-title" id="block-block-104">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <a id="splashbrowsetext" href="/collections/islandora/object/gsmrc%3Asmhc?display=grid">&mdash; Browse &mdash;</a>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-6 region region-splashsearch" id="region-splashsearch">
+  <div class="region-inner region-splashsearch-inner">
+    <section class="block block-islandora-collection-search block-islandora-collection-search-islandora-collection-search odd" id="block-islandora-collection-search-islandora-collection-search">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Islandora Collection Search</h2>
+            
+    <div class="content clearfix">
+      <form action="/collections/islandora/object/smhc:999/datastream/MODS" method="post" id="islandora-collection-search-form" accept-charset="UTF-8"><div><div class="container-inline form-wrapper" id="edit-simple"><div class="form-item form-type-select form-item-collection-select">
+ <select id="edit-collection-select" name="collection_select" class="form-select"><option value="all" selected="selected">All collections</option><option value="collections:cDanielCartoon">     Charlie Daniel Editorial Cartoon Collection</option><option value="collections:ascoop">AirScoop</option><option value="collections:bcpl">Blount County Historical and Architectural Inventory</option><option value="collections:cdf">Children&#039;s Defense Fund</option><option value="collections:ekcd">Crime Documents from the Estes Kefauver Collection</option><option value="collections:bass">Dr. William M. Bass III Collection - The Bass Field Notes</option><option value="collections:gamble">Ed Gamble Cartoon Collection</option><option value="collections:kefauver">Estes Kefauver Image Collection</option><option value="gsmrc:50yrcove">Fifty Years in Cades Cove Collection</option><option value="collections:gsmrc">Great Smoky Mountains Regional Collection</option><option value="gsmrc:webster">Herbert M. Webster Photograph Collection</option><option value="collections:scopes">Of Monkeys and Men: Public and Private Views from the Scopes Trial</option><option value="gsmrc:kintner">Panoramic Images of Elgin P. Kintner, M.D.</option><option value="gsmrc:adams">Paul J. Adams Photograph Collection</option><option value="collections:mpabaker">Photographs from the Life and Career of Howard Baker</option><option value="gsmrc:pcard00">Postcards from the Great Smoky Mountains</option><option value="collections:sanborn">Sanborn Fire Insurance Maps Collection</option><option value="gsmrc:smhc">Smoky Mountains Hiking Club Collection</option><option value="collections:alumnus">Tennessee Alumnus</option><option value="collections:heilman">The Botanical Photography of Alan S. Heilman</option><option value="gsmrc:wderfilms">The William Derris Film Collection</option><option value="gsmrc:derris">The William Derris Slide Collection</option><option value="collections:utkcomm">University of Tennessee Commencement Programs</option><option value="collections:vpmoore">Virginia P. Moore Collection</option><option value="collections:volvoices">Volunteer Voices</option><option value="collections:wwiioh">WWII Oral Histories</option><option value="gsmrc:wcc">William Cox Cochran Photographic Collection</option></select>
+</div>
+<div class="form-item form-type-textfield form-item-islandora-simple-search-query">
+  <label class="element-invisible" for="edit-islandora-simple-search-query">Search box </label>
+ <input type="text" id="edit-islandora-simple-search-query" name="islandora_simple_search_query" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input type="submit" id="edit-submit" name="op" value="search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-ZDlHNDXGjTLv8UxMiqCz7yqZeAK3bDLtgwb77BcJsPg" />
+<input type="hidden" name="form_id" value="islandora_collection_search_form" />
+</div></form>    </div>
+  </div>
+</section>  </div>
+</div>  </div>
+<div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+        
+        <div class="grid-12 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                <h1 class="title" id="page-title">Page not found</h1>
+                        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      The requested page "/collections/islandora/object/smhc:999/datastream/MODS" could not be found.    </div>
+  </div>
+</div>      </div>
+</div>  </div>
+</div>  
+  <div id="zone-reproductionszone" class="zone zone-reproductionszone clearfix container-12">
+    <div class="grid-12 region region-reproductionslink" id="region-reproductionslink">
+  <div class="region-inner region-reproductionslink-inner">
+    <div class="block block-block block-43 block-block-43 odd block-without-title" id="block-block-43">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <hr>
+<h4><a href="http://www.lib.utk.edu/reproductions/" id="reproductionslink">Reproductions Request Form</a></h4>
+<p>The University of Tennessee Libraries allows the reproduction of materials from its digital collections, in compliance with United States copyright law. The Library does not hold the copyright to most items in its collections. It is the user's responsibility to obtain permission to publish texts and facsimiles from the owners of the copyright. Our policy prohibits reproduction of an entire collection.</p>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</section>    
+  
+      <footer id="section-footer" class="section section-footer">
+    
+  <div id="zone-giving" class="zone zone-giving clearfix container-12">
+    <div class="grid-12 region region-giving" id="region-giving">
+  <div class="region-inner region-giving-inner">
+    <div class="block block-block block-12 block-block-12 odd block-without-title" id="block-block-12">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <section id="giving"><br><div class="container">
+<h4>Contribute to a big idea. <a href="https://securelb.imodules.com/s/1341/utk/index.aspx?sid=1341&amp;gid=2&amp;pgid=3204&amp;cid=4841&amp;dids=37">Give to the Libraries.</a></h4>
+</div>
+<p></p>
+        <script src="/collections/sites/all/libraries/utk/displayfixes.js" type="text/javascript"></script> 
+	<script src="/collections/sites/all/libraries/utk/dropdown.js"></script> 
+</section>
+    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+<div id="zone-utkfooter-wrapper" class="zone-wrapper zone-utkfooter-wrapper clearfix">  
+  <div id="zone-utkfooter" class="zone zone-utkfooter clearfix container-12">
+    <div class="grid-4 region region-utkfooter-first" id="region-utkfooter-first">
+  <div class="region-inner region-utkfooter-first-inner">
+    <div class="block block-block block-2 block-block-2 odd block-without-title" id="block-block-2">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="footer-map">
+  <a href="http://www.utk.edu/maps/?searching=yes&find=library&search=Search">
+    <img src="http://www.lib.utk.edu/wp-content/themes/libtheme/images/interface/libraries-footer-map.png" alt="map">
+  </a>
+</div>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-2 region region-utkfooter-second" id="region-utkfooter-second">
+  <div class="region-inner region-utkfooter-second-inner">
+    <div class="block block-block block-3 block-block-3 odd block-without-title" id="block-block-3">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id="footernav">
+  <nav class="footer-column">
+    <h4><a href="/about/">ABOUT THE LIBRARIES</a></h4>
+    <ul class="navigation">
+      <li><a href="http://www.lib.utk.edu/about/welcome-from-steven-smith/">Welcome</a></li>
+      <li><a href="http://www.lib.utk.edu/about/administration/">Administration</a></li>
+      <li><a href="http://www.lib.utk.edu/employment/">Employment</a></li>
+      <li><a href="http://www.lib.utk.edu/society/">Library Society</a></li>
+      <li><a href="http://www.lib.utk.edu/about/mission-and-vision/">Vision &amp; Mission</a></li>
+    </ul>
+  </nav>
+</div>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-2 region region-utkfooter-fourth" id="region-utkfooter-fourth">
+  <div class="region-inner region-utkfooter-fourth-inner">
+    <div class="block block-block block-4 block-block-4 odd block-without-title" id="block-block-4">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id="footernav">
+  <nav class="footer-column">
+    <h4><a href="http://www.lib.utk.edu/contact/">CONTACT US</a></h4>
+    <ul class="navigation">
+	<li><a href="http://www.lib.utk.edu/about/depts/">Departments</a></li>
+	<li><a href="http://www.lib.utk.edu/about/maps">Maps &amp; Directions</a></li>
+	<li><a href="http://www.lib.utk.edu/staff_directory/">Staff Directory</a></li>
+	<li><a href="http://www.lib.utk.edu/contact/website-feedback/">Site Feedback</a></li>
+	<li><a href="http://www.lib.utk.edu/about/a-z/">Libraries A to Z</a></li>
+    </ul>
+  </nav>
+</div>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-2 region region-utkfooter-third" id="region-utkfooter-third">
+  <div class="region-inner region-utkfooter-third-inner">
+    <div class="block block-block block-5 block-block-5 odd block-without-title" id="block-block-5">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id="footernav">
+  <nav class="footer-column">
+    <h4><a href="http://www.lib.utk.edu/about/policies/">POLICIES</a></h4>
+    <ul class="navigation">
+	<li><a href="http://www.lib.utk.edu/about/policies/electronic-resource-use/">Electronic Resource Use</a></li>
+	<li><a href="http://www.lib.utk.edu/about/policies/internet-access/">Internet Access</a></li>
+	<li><a href="http://www.lib.utk.edu/about/policies/web-privacy/">Web Privacy</a></li>
+	<li><a href="http://www.lib.utk.edu/info/community/">Community &amp; Visitors</a></li>	
+    </ul>
+  </nav>
+</div>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-8 prefix-4 region region-utkfooter-sixth" id="region-utkfooter-sixth">
+  <div class="region-inner region-utkfooter-sixth-inner">
+    <div class="block block-block block-6 block-block-6 odd block-without-title" id="block-block-6">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id="footernav">
+  <section class="socialsection">
+    <h4>
+      <span class="social-title">
+        <a href="http://www.lib.utk.edu">University Libraries</a> - <a href="http://www.utk.edu">University of Tennessee, Knoxville </a> <br />1015 Volunteer Boulevard, Knoxville, TN 37996-1000  (865) 974-4351
+      </span>
+      <span class="ico-facebook"><a href="http://www.facebook.com/utklibraries"><img src="http://www.lib.utk.edu/wp-content/themes/libtheme/images/social-media/facebook-16.png" title="UT Libraries on Facebook" alt="UT Libraries on Facebook"></a></span>
+      <span class="ico-twitter"><a href="https://foursquare.com/v/john-c-hodges-library/4b16792cf964a52077b923e3"><img src="http://www.lib.utk.edu/wp-content/themes/libtheme/images/social-media/foursquare-16.png" title="UT Libraries on Foursquare" alt="UT Libraries on Foursquare"></a></span>
+      <span class="ico-instagram"><a href="http://instagram.com/utklibraries/"><img src="http://www.lib.utk.edu/wp-content/themes/libtheme/images/social-media/instagram-16.png" title="UT Libraries on Instagram" alt="UT Libraries on Instagram"></a></span>
+      <span class="ico-pintrest"><a href="http://pinterest.com/utklibraries"><img src="http://www.lib.utk.edu/wp-content/themes/libtheme/images/social-media/pinterest-16.png" title="UT Libraries on Pinterest" alt="UT Libraries on Pinterest"></a></span>
+     <span class="ico-twitter"><a href="http://twitter.com/utklibraries"><img src="http://www.lib.utk.edu/wp-content/themes/libtheme/images/social-media/twitter-16.png" title="UT Libraries on Twitter" alt="UT Libraries on Twitter"></a></span>
+    <span class="ico-youtube"><a href="http://www.youtube.com/user/utklibraries"><img src="http://www.lib.utk.edu/wp-content/themes/libtheme/images/social-media/youtube-16.png" title="UT Libraries on YouTube" alt="UT Libraries on YouTube"></a></span>
+    <span class="ico-itunes"><a href="https://itunes.apple.com/us/app/tennessee/id548076679?mt=8"><img src="http://www.lib.utk.edu/wp-content/themes/libtheme/images/social-media/ut-16.png" title="University of Tennessee iOS App" alt="University of Tennessee iOS App"></a></span>
+    </h4>
+  </section>
+</div>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div><div id="zone-utkindicia-wrapper" class="zone-wrapper zone-utkindicia-wrapper clearfix">  
+  <div id="zone-utkindicia" class="zone zone-utkindicia clearfix container-12">
+    <div class="grid-12 region region-utk-indicia" id="region-utk-indicia">
+  <div class="region-inner region-utk-indicia-inner">
+    <div class="block block-block block-7 block-block-7 odd block-without-title" id="block-block-7">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id="indicia">
+<h3><a href="http://www.utk.edu">The University of Tennessee, Knoxville. Big Orange. Big Ideas.</a></h3>
+<p>Knoxville, Tennessee 37996  |  865-974-1000<br /><br />
+The flagship campus of the <a href="http://tennessee.edu">University of Tennessee System</a></p>
+</div>
+    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></footer>  </div>  <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MB99NS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MB99NS');</script>
+<!-- End Google Tag Manager -->
+
+</body>
+</html>
